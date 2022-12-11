@@ -517,3 +517,9 @@ body {
     -webkit-transform: rotate(5deg) scale(1.05);
   }
 }
+
+.life {
+  font-size: 40px;
+  color: red;
+  opacity: 0.2;
+}
